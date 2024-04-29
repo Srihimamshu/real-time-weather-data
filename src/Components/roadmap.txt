@@ -1,13 +1,9 @@
 first creat react app
 now create components folder
-install dependencies - a) styled components 
-                       b) axioms
+install dependencies - a. styled components 
+                       b. axioms
 create a component for searching cities
 create a component for displaying
 create icons, css 
 map the icons to those ids
 css beautify
-
-
-
-

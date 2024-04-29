@@ -7,7 +7,7 @@ const CityComponent = (props) => {
     <>
     <div className="body">
       <img
-        src={"icons/perfect-day.png"}
+        src={"/icons/day.png"}
         className="w-40 h-40 mx-auto my-5"
         alt="Weather Logo"
       />
